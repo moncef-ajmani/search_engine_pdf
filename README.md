@@ -11,7 +11,7 @@ This is a Python script that indexes the text content of PDF files in a director
 ## Usage
 
 1. Set the `pdf_folder_path` and `index_folder_path` variables in the script to the paths of the folder containing PDF files and the folder where the index will be stored, respectively.
-2. Run the script in a terminal or command prompt by entering `python pdf_search_engine.py`.
+2. Run the script in a terminal or command prompt by entering `app.py`.
 3. The script will create an index of the PDF files in the specified folder and allow the user to search for keywords within the text content of the files.
 4. Enter a search query when prompted and the script will display a list of the PDF files containing the query.
 
